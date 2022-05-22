@@ -1,2 +1,2 @@
-# inets
-Tools for studying interaction nets, a graphical model of computation. 
+# symcomb
+Tools for studying symmetric interaction combinators, a graphical model of computation. 
